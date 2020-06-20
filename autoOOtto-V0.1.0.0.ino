@@ -26,7 +26,7 @@ SocketIOClient client;
  const char* password = "wolverine24"; //Wifi Pass
 
  char  host[] = "auto-otto.herokuapp.com" ; // "https://auto-otto.herokuapp.com";
- int port = 80; // nodejs port 3000
+ int port = 3000; // nodejs port 3000
 
 /*****************************/
 
