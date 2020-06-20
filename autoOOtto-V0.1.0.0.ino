@@ -25,8 +25,8 @@ SocketIOClient client;
  const char* ssid     = "WOLVERINE2.4"; //Wifi SSID
  const char* password = "wolverine24"; //Wifi Pass
 
- char  host[] = "192.168.0.38" ; // "https://auto-otto.herokuapp.com";
- int port = 3000; // nodejs port 3000
+ char  host[] = "auto-otto.herokuapp.com" ; // "https://auto-otto.herokuapp.com";
+ int port = 80; // nodejs port 3000
 
 /*****************************/
 
